@@ -1,0 +1,61 @@
+#contact
+{
+   background-color:rgba(0, 23, 36, 0.8);
+    color:white;
+} 
+
+#band
+{
+    color: black;
+}
+
+#map
+{
+   margin-top: 10%;
+   margin-bottom: 5%;
+   background-color: rgba(0, 23, 36, 0.8);
+   color: white;
+  padding-top: 1%;
+  padding-bottom: 1%;
+   
+}
+
+
+
+
+
+p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 {
+      background-color: #1abc9c; 
+      color: #ffffff;
+  }
+  .bg-2 {
+      background-color: #2e2e2e; 
+      color: #ffffff;
+  }
+  .bg-3 {
+      background-color: #ffffff; 
+      color: #555555;
+  }
+  .bg-4 {
+      background-color: #2f2f2f;
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+

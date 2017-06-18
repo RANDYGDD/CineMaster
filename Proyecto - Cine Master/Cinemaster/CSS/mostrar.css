@@ -1,0 +1,33 @@
+.informacion
+{  
+   padding:2%;
+   padding-left: 10%;
+   border-radius: 2%;
+   color:rgb(255, 255, 255);
+   background-color: rgba(0, 0, 0, 0.56);
+}
+
+
+.info
+{    
+    font-family: arial;
+     display: block;
+     margin-bottom: 3%;
+}
+
+
+body{
+    background-image:url(fondo.png);
+}
+
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; 
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+}
+

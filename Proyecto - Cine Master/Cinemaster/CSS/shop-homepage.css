@@ -1,0 +1,43 @@
+body {
+background: -moz-linear-gradient(45deg, rgba(254,252,234,1) 2%, rgba(254,252,234,1) 3%, rgba(254,252,234,1) 6%, rgba(248,236,148,1) 28%, rgba(246,230,117,0.78) 36%, rgba(245,229,109,1) 38%, rgba(244,225,89,0.78) 43%, rgba(241,218,54,0.78) 52%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, rgba(254,252,234,1) 2%,rgba(254,252,234,1) 3%,rgba(254,252,234,1) 6%,rgba(248,236,148,1) 28%,rgba(246,230,117,0.78) 36%,rgba(245,229,109,1) 38%,rgba(244,225,89,0.78) 43%,rgba(241,218,54,0.78) 52%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, rgba(254,252,234,1) 2%,rgba(254,252,234,1) 3%,rgba(254,252,234,1) 6%,rgba(248,236,148,1) 28%,rgba(246,230,117,0.78) 36%,rgba(245,229,109,1) 38%,rgba(244,225,89,0.78) 43%,rgba(241,218,54,0.78) 52%); 
+    
+padding-top: 70px; 
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 2px;
+    color: #333;
+}
